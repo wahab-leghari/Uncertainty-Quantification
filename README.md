@@ -1,2 +1,2 @@
 # Uncertainty-Quantification
-Uncertainty Quantification in DL model predictions
+Uncertainty Quantification in ML/DL model predictions
